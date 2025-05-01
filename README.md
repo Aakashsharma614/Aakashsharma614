@@ -8,30 +8,23 @@ I’m a 6th-semester B.Tech in Computer Science student with a passion for build
 
 🌟 Core Competencies
 
-Domain
+
 
 Technologies & Tools
-
-Languages
-
 Python · JavaScript (ES6+) · TypeScript · C++
 
 Frontend
-
 React · HTML5 · CSS3 · Tailwind CSS
 
 Backend
-
 Node.js · Express · Django · Flask
 
 Databases
-
 PostgreSQL · MongoDB · SQLite · Redis
 
 
 
 AI/ML & Computer Vision
-
 OpenCV · TensorFlow · Keras · dlib · face_recognition
 
 🚀 Highlight Projects
