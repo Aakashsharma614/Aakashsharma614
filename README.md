@@ -1,56 +1,124 @@
-👋 Hi, I’m Aakash Sharma
+# 👋 Hi, I’m Aakash Sharma
 
-Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast
+### 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
 
-🔖 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Passionate+About+AI+%26+Computer+Vision;Strong+in+DSA+%26+System+Design" />
+</p>
 
-I’m a 6th-semester B.Tech in Computer Science student with a passion for building scalable, production-quality software and intelligent systems. My GitHub showcases end-to-end projects—spanning full-stack applications, real-time collaborative tools, and AI-powered computer vision systems—that demonstrate expertise in modern tech stacks and a strong foundation in Data Structures & Algorithms.
+---
 
-🌟 Core Competencies
+## 🔖 About Me
 
+🎓 B.Tech CSE (6th Semester) | Dev Bhoomi Uttarakhand University (2026)
 
+I’m a software developer focused on building **scalable full-stack applications** and **intelligent systems**.
+I enjoy solving real-world problems through clean architecture, efficient algorithms, and modern technologies.
 
-Technologies & Tools
-Python · JavaScript (ES6+) · TypeScript · C++
+💡 My work spans:
 
-Frontend
-React · HTML5 · CSS3 · Tailwind CSS
+* Full-stack web development (MERN, Django)
+* Real-time systems (WebRTC, collaboration tools)
+* AI-powered applications (Computer Vision)
 
-Backend
-Node.js · Express · Django · Flask
+---
 
-Databases
-PostgreSQL · MongoDB · SQLite · Redis
+## 🌟 Core Skills
 
+### 🧑‍💻 Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
 
-AI/ML & Computer Vision
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite)
+
+### 🤖 AI / ML
+
 OpenCV · TensorFlow · Keras · dlib · face_recognition
 
-🚀 Highlight Projects
+---
 
+## 🚀 Featured Projects
 
-Face Recognition Attendance SystemAutomated attendance marking using OpenCV’s Haar Cascades and a trained recognition pipeline, complete with GUI and CSV/SQLite logging.Demo & Code ▶️
+### 🧠 Face Recognition Attendance System
 
-Virtual CPU Scheduler SimulatorC++ application simulating FCFS, SJF, Round Robin, and Priority scheduling policies with Qt-powered Gantt-chart visualizations.Demo & Code ▶️
+✔ Automated attendance using OpenCV & ML pipeline
+✔ GUI + CSV/SQLite logging
+🔗 [View Project](#)
 
-SkillSwap – Peer Learning PlatformA MERN-stack marketplace for tutor-learner matching, live video sessions (WebRTC), and secure payments via Stripe/UPI.Demo & Code ▶️
+---
 
-💼 Experience & Certifications
+### ⚙️ Virtual CPU Scheduler Simulator
 
-Bluestock Fintech — Software Engineering Intern (Oct 2024 – Dec 2024)Contributed to backend API development and database optimization.
+✔ Simulates FCFS, SJF, Round Robin, Priority
+✔ Qt-based Gantt chart visualization
+🔗 [View Project](#)
 
+---
 
-JPMorgan Chase & Co. — Virtual Intern (Apr 2025)Developed data processing pipelines and automated reporting tools.
+### 🌐 SkillSwap – Peer Learning Platform
 
-CodeHelp — DSA Training Certification (Completed Apr 2025)
+✔ MERN stack + WebRTC video sessions
+✔ Stripe/UPI payment integration
+🔗 [View Project](#)
 
-🎓 Education
+---
 
-B.Tech in Computer Science from Dev Bhoomi Uttarakhand University, Expected Graduation: 2026
+## 💼 Experience
 
+**Bluestock Fintech — Software Engineering Intern**
+📅 Oct 2024 – Dec 2024
 
+* Worked on backend APIs & database optimization
 
+**JPMorgan Chase & Co. — Virtual Intern**
+📅 Apr 2025
 
+* Built data pipelines & automated reporting tools
 
+---
 
+## 🎓 Certifications
+
+* 📜 CodeHelp — DSA Certification (Apr 2025)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [Your LinkedIn](#)
+* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+⭐ *Always building, always learning.*
