@@ -1,124 +1,104 @@
-# 👋 Hi, I’m Aakash Sharma
-
-### 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
+# 👋 Aakash Sharma
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Passionate+About+AI+%26+Computer+Vision;Strong+in+DSA+%26+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+%26+Intelligent+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-Full--Stack%20Engineer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" />
 </p>
 
 ---
 
-## 🔖 About Me
+## 🧭 About
 
-🎓 B.Tech CSE (6th Semester) | Dev Bhoomi Uttarakhand University (2026)
+🎓 B.Tech Computer Science (2026)
+💡 Focused on **scalable systems, backend architecture, and AI-driven applications**
 
-I’m a software developer focused on building **scalable full-stack applications** and **intelligent systems**.
-I enjoy solving real-world problems through clean architecture, efficient algorithms, and modern technologies.
-
-💡 My work spans:
-
-* Full-stack web development (MERN, Django)
-* Real-time systems (WebRTC, collaboration tools)
-* AI-powered applications (Computer Vision)
+I build **production-ready full-stack applications** and **intelligent systems** with an emphasis on performance, clean design, and real-world usability.
 
 ---
 
-## 🌟 Core Skills
+## ⚡ Tech Stack
 
-### 🧑‍💻 Languages
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge\&logo=typescript\&logoColor=58A6FF)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge\&logo=cplusplus\&logoColor=58A6FF)
 
-### 🎨 Frontend
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=58A6FF)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge\&logo=tailwind-css\&logoColor=58A6FF)
 
-### ⚙️ Backend
+### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=node.js\&logoColor=58A6FF)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge\&logo=express\&logoColor=58A6FF)
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge\&logo=django\&logoColor=58A6FF)
 
-### 🗄️ Databases
+### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=58A6FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=58A6FF)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge\&logo=redis\&logoColor=58A6FF)
 
-### 🤖 AI / ML
+### AI / ML
 
-OpenCV · TensorFlow · Keras · dlib · face_recognition
+OpenCV · TensorFlow · Keras · dlib
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-### 🧠 Face Recognition Attendance System
+### Face Recognition Attendance System
 
-✔ Automated attendance using OpenCV & ML pipeline
-✔ GUI + CSV/SQLite logging
-🔗 [View Project](#)
+→ Automated attendance using Computer Vision
+→ Real-time recognition + persistent logging
 
----
+### Virtual CPU Scheduler Simulator
 
-### ⚙️ Virtual CPU Scheduler Simulator
+→ Multi-algorithm scheduling engine
+→ Gantt chart visualization with Qt
 
-✔ Simulates FCFS, SJF, Round Robin, Priority
-✔ Qt-based Gantt chart visualization
-🔗 [View Project](#)
+### SkillSwap (MERN Platform)
 
----
-
-### 🌐 SkillSwap – Peer Learning Platform
-
-✔ MERN stack + WebRTC video sessions
-✔ Stripe/UPI payment integration
-🔗 [View Project](#)
+→ Real-time video (WebRTC)
+→ Secure payments integration
 
 ---
 
 ## 💼 Experience
 
-**Bluestock Fintech — Software Engineering Intern**
-📅 Oct 2024 – Dec 2024
+**Software Engineering Intern — Bluestock Fintech**
+Oct 2024 – Dec 2024
 
-* Worked on backend APIs & database optimization
-
-**JPMorgan Chase & Co. — Virtual Intern**
-📅 Apr 2025
-
-* Built data pipelines & automated reporting tools
+**Virtual Intern — JPMorgan Chase & Co.**
+Apr 2025
 
 ---
 
-## 🎓 Certifications
-
-* 📜 CodeHelp — DSA Certification (Apr 2025)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect
 
-* 💼 LinkedIn: [Your LinkedIn](#)
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
+</p>
 
 ---
 
-⭐ *Always building, always learning.*
+<p align="center">
+  <sub>Focused on building systems that scale and solve real problems.</sub>
+</p>
