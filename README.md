@@ -14,32 +14,43 @@
 
 ## About Me
 
-Software Developer focused on backend engineering, distributed systems, and AI-driven applications.
+Software Developer specializing in **backend engineering, distributed systems, and AI-driven applications**.
 
-I build systems that are:
+I focus on building systems that are:
 
-Scalable and performant under real-world load
-Reliable and fault-tolerant
-Cleanly designed with maintainable architecture
-Production-ready with a strong focus on quality
+- ⚡ **Scalable & performant** under real-world load  
+- 🛡️ **Reliable & fault-tolerant** by design  
+- 🧩 **Cleanly architected** for long-term maintainability  
+- 🚀 **Production-ready** with strong engineering standards  
 
-My work centers on developing high-performance backend services, real-time systems, and full-stack applications, with an emphasis on scalability, system design, and performance optimization.
+---
+
+### What I Do
+
+I design and develop **high-performance backend services, real-time systems, and full-stack applications**, with a strong emphasis on:
+
+- System design & architecture  
+- Performance optimization  
+- Scalability & efficiency  
+
+---
+
+### Interests
 
 I’m particularly interested in:
 
-Designing distributed and microservices-based architectures
-Building event-driven and scalable backend systems
-Integrating AI and Generative AI into real-world products
+- 🏗️ **Distributed & microservices-based architectures**  
+- 🔄 **Event-driven and scalable backend systems**  
+- 🤖 **AI & Generative AI integration in real-world products**  
 
-Currently focused on strengthening my expertise in system design, scalable infrastructure, and applying AI to solve complex engineering problems.
+---
 
-## Core Areas
+### Currently Focused On
 
-- Backend Engineering & API Design  
-- Distributed Systems & Scalability  
-- Real-Time Systems (WebSockets, Streaming)  
-- Full-Stack Development  
-- AI / ML & Generative AI  
+- System Design (HLD & LLD)  
+- Scalable Infrastructure & Backend Systems  
+- Distributed Systems  
+- Applying AI to real-world engineering problems  
 
 ---
 
@@ -86,21 +97,10 @@ Currently focused on strengthening my expertise in system design, scalable infra
 
 ---
 
-## Currently Exploring
-
-- System Design (HLD + LLD)  
-- Distributed Systems  
-- Advanced Backend Architectures  
-- GenAI Applications  
-- Data Structures & Algorithms  
-
----
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakashsharma614
-&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakashsharma614&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
 </p>
 
 <p align="center">
