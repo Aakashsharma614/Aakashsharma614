@@ -92,7 +92,8 @@ Interested in designing **high-performance backend architectures** and integrati
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakashsharma614&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakashsharma614
+&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
 </p>
 
 <p align="center">
