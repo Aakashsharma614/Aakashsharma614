@@ -14,17 +14,24 @@
 
 ## About Me
 
-B.Tech Computer Science student (2026) focused on **backend engineering, distributed systems, and AI-powered applications**.
+Software Developer focused on backend engineering, distributed systems, and AI-driven applications.
 
 I build systems that are:
-- Scalable  
-- Efficient  
-- Reliable  
-- Production-ready  
 
-Interested in designing **high-performance backend architectures** and integrating **AI into real-world products**.
+Scalable and performant under real-world load
+Reliable and fault-tolerant
+Cleanly designed with maintainable architecture
+Production-ready with a strong focus on quality
 
----
+My work centers on developing high-performance backend services, real-time systems, and full-stack applications, with an emphasis on scalability, system design, and performance optimization.
+
+I’m particularly interested in:
+
+Designing distributed and microservices-based architectures
+Building event-driven and scalable backend systems
+Integrating AI and Generative AI into real-world products
+
+Currently focused on strengthening my expertise in system design, scalable infrastructure, and applying AI to solve complex engineering problems.
 
 ## Core Areas
 
@@ -105,7 +112,7 @@ Interested in designing **high-performance backend architectures** and integrati
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&color=58A6FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashsharma614&theme=github-dark&hide_border=true&color=58A6FF" />
 </p>
 
 ---
