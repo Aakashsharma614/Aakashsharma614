@@ -1,88 +1,110 @@
 # Aakash Sharma
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Backend+%26+Systems+Focused;AI+%2F+ML+Developer;Building+Scalable+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Backend+%26+Systems+Specialist;AI+%2F+GenAI+Developer;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Engineer-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Scalable%20Systems-0D1117?style=for-the-badge&logo=apache&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Interest-AI%20%2F%20ML%20Applications-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-0D1117?style=for-the-badge&logo=apache&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Backend-High%20Performance-0D1117?style=for-the-badge&logo=server&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/AI-GenAI%20%26%20ML-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" />
 </p>
 
 ---
 
 ## About Me
 
-B.Tech Computer Science student (2026) with a strong focus on **backend engineering, scalable systems, and AI-powered applications**.
+B.Tech Computer Science student (2026) focused on **backend engineering, distributed systems, and AI-powered applications**.
 
-I enjoy building products that are not only functional, but also **efficient, reliable, and production-ready**.
+I build systems that are:
+- Scalable  
+- Efficient  
+- Reliable  
+- Production-ready  
 
-### What I work on
-- Scalable backend architectures
-- Full-stack web applications
-- Real-time systems
-- AI / ML-powered products
+Interested in designing **high-performance backend architectures** and integrating **AI into real-world products**.
+
+---
+
+## Core Areas
+
+- Backend Engineering & API Design  
+- Distributed Systems & Scalability  
+- Real-Time Systems (WebSockets, Streaming)  
+- Full-Stack Development  
+- AI / ML & Generative AI  
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, C++  
-**Frontend:** React.js, Next.js, Tailwind CSS, Redux, Zustand  
-**Backend:** Node.js, Express.js, Django, REST Framework, WebSockets  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**Tools:** Git, GitHub, Docker, Linux, Nginx, AWS basics, Vercel  
-**AI / ML:** OpenCV, TensorFlow, Keras  
+### Languages
+`Python` • `JavaScript` • `TypeScript` • `C++` • `SQL`
 
 ---
 
-## Projects
-
-### Face Recognition Attendance System
-- Built a real-time face detection and recognition pipeline
-- Automated attendance logging with persistent storage
-- Improved speed and efficiency using OpenCV
-
-### Virtual CPU Scheduler Simulator
-- Simulated FCFS, SJF, Round Robin, and Priority Scheduling
-- Visualized execution with Gantt Charts using Qt
-- Demonstrated operating system scheduling concepts
-
-### SkillSwap (MERN Platform)
-- Built a full-stack skill exchange platform
-- Integrated real-time video communication with WebRTC
-- Added secure payment flow and scalable backend features
+### Frontend
+`React.js` • `Next.js` • `Tailwind CSS`  
+`Redux` • `Zustand` • `Framer Motion`  
+`WebRTC` • `ShadCN UI`
 
 ---
 
-## Experience
+### Backend & Systems
+`Node.js` • `Express.js` • `Django` • `FastAPI`  
+`REST APIs` • `GraphQL` • `WebSockets`  
+`Microservices` • `Event-Driven Architecture`
 
-**Software Engineering Intern — Bluestock Fintech**  
-*Oct 2024 – Dec 2024*  
-- Worked on backend systems and API development
-- Improved performance and data handling
+---
 
-**Virtual Intern — JPMorgan Chase & Co.**  
-*Apr 2025*  
-- Completed financial software engineering simulation
-- Applied system design and engineering best practices
+### Databases & Caching
+`PostgreSQL` • `MongoDB` • `Redis`  
+`Database Design` • `Query Optimization`
+
+---
+
+### DevOps & Infrastructure
+`Docker` • `Linux` • `Nginx`  
+`AWS (EC2, S3 basics)` • `Vercel`  
+`CI/CD Basics`
+
+---
+
+### AI / ML & GenAI
+`TensorFlow` • `Keras` • `OpenCV`  
+`LLMs (OpenAI APIs)`  
+`Prompt Engineering`  
+`RAG (Retrieval-Augmented Generation)`  
+`Vector DBs (FAISS / Pinecone basics)`
 
 ---
 
 ## Currently Exploring
-- System design
-- Scalable backend systems
-- AI-integrated applications
-- DSA and problem solving
+
+- System Design (HLD + LLD)  
+- Distributed Systems  
+- Advanced Backend Architectures  
+- GenAI Applications  
+- Data Structures & Algorithms  
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakashsharma614&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&color=58A6FF" />
 </p>
 
 ---
@@ -90,12 +112,16 @@ I enjoy building products that are not only functional, but also **efficient, re
 ## Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
+  <a href="https://www.linkedin.com/in/aakash-sharma-23731b25b">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+  </a>
+  <a href="mailto:sharmaaakash6543@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Building reliable systems and scalable digital products.</sub>
+  <sub>Building scalable systems • Engineering reliable backends • Exploring AI</sub>
 </p>
