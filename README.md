@@ -49,6 +49,8 @@ open_to: Full-time roles · Freelance · Collaboration
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
 ### 💻 Languages
@@ -58,6 +60,7 @@ open_to: Full-time roles · Freelance · Collaboration
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases & Caching
@@ -65,6 +68,18 @@ open_to: Full-time roles · Freelance · Collaboration
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+### 📨 Messaging & Event Streaming
+<p>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bull_Queue-6366F1?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Event--Driven-0D1117?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -74,16 +89,31 @@ open_to: Full-time roles · Freelance · Collaboration
   <img src="https://img.shields.io/badge/RAG_Pipelines-6366F1?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector_Databases-FF6B6B?style=for-the-badge&logo=pinecone&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-6366F1?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Testing
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend
@@ -124,12 +154,13 @@ open_to: Full-time roles · Freelance · Collaboration
 
 | Domain | Skills |
 |---|---|
-| 🔌 **API Development** | RESTful APIs, GraphQL, WebSocket servers, Rate limiting, Auth middleware |
-| 🗃️ **Database Engineering** | Schema design, Query optimization, Indexing strategies, Migrations |
+| 🔌 **API Development** | RESTful APIs, GraphQL, gRPC, WebSocket servers, Rate limiting, Auth middleware |
+| 🗃️ **Database Engineering** | Schema design, Query optimization, Indexing, Migrations, Full-text search |
+| 📨 **Event Streaming** | Apache Kafka, RabbitMQ, Bull queues, Celery, Pub/Sub patterns |
 | 🔐 **Security & Auth** | JWT, OAuth2, RBAC, Session management, API key systems |
-| 🧩 **System Design** | Microservices, Event-driven architecture, Message queues, Load balancing |
-| 🤖 **AI Engineering** | RAG pipelines, LLM integrations, Vector search, Embeddings, Agents |
-| 🐳 **DevOps** | Docker, CI/CD pipelines, Cloud deployments, Monitoring & logging |
+| 🧩 **System Design** | Microservices, Event-driven architecture, CQRS, Saga pattern, Load balancing |
+| 🤖 **AI Engineering** | RAG pipelines, LLM integrations, Vector search, Embeddings, AI Agents |
+| 🐳 **DevOps** | Docker, Kubernetes, CI/CD pipelines, Terraform, Prometheus & Grafana |
 | ⚡ **Performance** | Caching strategies, Async processing, Connection pooling, Profiling |
 
 ---
